@@ -1,0 +1,2 @@
+﻿Add-Migration -Context CampOrnoContext -o Data\COMigrations
+Update-Database -Context CampOrnoContext
